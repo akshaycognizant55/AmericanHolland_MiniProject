@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="HollandAmericaSuite">
+    <test name="HollandAmericaTests">
+        <classes>
+            <class name="com.simple.tests.HollandAmericaTest"/>
+        </classes>
+    </test>
+</suite>
